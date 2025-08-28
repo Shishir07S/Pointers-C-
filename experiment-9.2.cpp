@@ -11,3 +11,8 @@ int main() {
 
     return 0;
 }
+/*OUTPUT
+0x61ff08
+0x61ff08
+10
+    */
